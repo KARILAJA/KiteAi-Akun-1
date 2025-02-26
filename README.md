@@ -1,2 +1,12 @@
-# Galkite-AutoInteraction
-Full tutorial On my channel https://t.me/NTExhaust
+Step by step
+
+git clone https://github.com/Svz1404/Galkite-AutoInteraction.git
+cd Galkite-AutoInteraction
+
+npm install node-fetch cfonts chalk readline ora
+
+Fil your wallet address on script
+
+nano index.js
+
+node index.js 25
